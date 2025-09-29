@@ -9,7 +9,6 @@ This repository contains assignments and class work for the **Infinity Champions
 
 ## 📝 Class Work
 - [ICP Class Work](./ICP_Class_Work/)
-  - [Day 1](./ICP_Class_Work/Day1/)
   - [Day 2](./ICP_Class_Work/Day2/)
   - [Day 3](./ICP_Class_Work/Day3/)
 
