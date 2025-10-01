@@ -3,6 +3,7 @@ package Day5;
 import java.util.Arrays;
 
 public class Fractional_Knapsack {
+
     public static void main(String[] args) {
         int[] val = {60, 100, 120};
         int[] wt = {10, 20, 30};
@@ -26,6 +27,7 @@ public class Fractional_Knapsack {
         int currCap = 0;
         double ans =0;
         int i=0;
+        
         while(i<n && currCap<capacity){
             if(currCap + item[i][0] <= capacity){
                 currCap += item[i][0];

@@ -1,9 +1,6 @@
 package Assignment_5;
 
-import java.util.Arrays;
-import java.util.Comparator;
-import java.util.LinkedList;
-import java.util.List;
+import java.util. *;
 
 public class Queue_Reconstruction_by_Height {
     public static void main(String[] args) {

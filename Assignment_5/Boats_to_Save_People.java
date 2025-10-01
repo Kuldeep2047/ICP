@@ -4,6 +4,7 @@ import java.util.Arrays;
 
 public class Boats_to_Save_People {
     public static void main(String[] args) {
+        
         int[] people = {3,2,2,1};
         int limit = 3;
         System.out.println(numberOfBoats(people, limit));
