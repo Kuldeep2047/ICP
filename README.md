@@ -15,6 +15,7 @@ This repository contains assignments and class work for the **Infinity Champions
 - [Assignment 10](./Assignment_10/)
 - [Assignment 11](./Assignment_11/)
 - [Assignment 12](./Assignment_12/)
+- [Assignment 13](./Assignment_13/)
 
 ## 📝 Class Work
 - [ICP Class Work](./ICP_Class_Work/)
